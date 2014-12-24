@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TodoList</string>
+    <string name="action_settings">Settings</string>
+    <string name="addTextItem">Adicione a tarefa</string>
+    <string name="contentDescription">I have no idea what description is it</string>
+
+</resources>
